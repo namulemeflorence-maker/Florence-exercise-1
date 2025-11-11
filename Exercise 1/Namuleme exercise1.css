@@ -1,0 +1,68 @@
+p{
+	background-color:green;
+	font-size:30;
+	margin:10px 20px 15px 15px;
+}
+div{
+	background-color:red;
+	color:white;
+	padding:25px 50px 75px 100px;
+}
+footer {
+    background-color: #800000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+header {
+    margin: 5px 0;
+    font-size: 28px;
+	font-family:verdana;
+	text-align:center;
+}
+h1{
+	backgroung-color:pink;
+	color:blue;
+	padding:10px 30px 60px 90px;
+}
+.football{
+	font-weight:bold;
+	color:blue;
+	background-color:brown;
+	padding:10px;
+	border-radius:8px;
+	font-size:20px;
+	font-style:italic;	
+}
+.volleyball{
+	font-weight:bold;
+	color:yellow;
+	background-color:purple;
+	padding:10px;
+	border-radius:8px;
+	font-size:20px;
+	font-family:verdana;
+}
+#netballbold{
+	color:pink;
+	background-color:violet;
+margin:30px 10px 15px 20px;S
+padding:20px;
+font-size:20px;
+font-family:verdana;
+border radius:10px;
+text-decoration:underline;
+letter spacing:2px;
+}
+#other althetics{
+	color:pink;
+	font-size:20px;
+	font-family:verdana;
+}
+body{
+	background-color:yellow;
+	padding:25px 50px 30px 40px;
+	margin:50px 40px 25px 30px;
+}
+	
